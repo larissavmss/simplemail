@@ -16,7 +16,7 @@ Esse script em Bash é um sistema simples de e-mail local, no qual é possível 
 
 • **list** = Mostra a lista de mensagens recebidas
 
-• **read msgnum** = Mostra o conteúdo da mensagem número msgnum
+• **readmsg msgnum** = Mostra o conteúdo da mensagem número msgnum
 
 • **unread msgnum** = Redefine a mensagem número msgnum como não-lida
 
