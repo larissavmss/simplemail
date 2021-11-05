@@ -1,8 +1,6 @@
 #!/bin/bash
 logado=0 #Checa se o usuário está logado
 sair=0 #Torna 1 quando o usuário deseja fechar o programa
-#Conforme permitido no fórum de discussão pelo monitori, a função read do programa foi nomeada readmsg 
-#então para ler uma mensagem enviada digite "readmsg msgNum"
 
 
 function createuser {
